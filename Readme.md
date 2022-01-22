@@ -15,7 +15,7 @@ python3 -m venv venv
 ```
 To activate the virtual environment we do:
 ```
-sourse venv/bin/activate
+venv\scripts\activate.bat
 ```
 In order to add new packages to our new virtual environment
 we create a file called `requirements.txt` and execute
